@@ -1,0 +1,4 @@
+for i in range("100):
+ data = open("file.{}txt".format (i), "w")
+ data.write("yeahhhhh")
+ data.close()
